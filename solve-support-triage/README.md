@@ -14,7 +14,7 @@ As Solve scales across 600+ global IP teams, complex technical tickets from dema
 
 ### Next Steps and Scaling
 
-If I were running this in production at Solve, the next phase would be replacing the basic hardcoded string matching with a lightweight LLM classification call (like using the `openai` Python SDK with `gpt-4o-mini`). 
+If I were running this in production at Solve, the next phase would be replacing the basic hardcoded string matching with a lightweight LLM classification call (like using the openai Python SDK with gpt-4o-mini). 
 
 To make it production-ready, I would:
 
